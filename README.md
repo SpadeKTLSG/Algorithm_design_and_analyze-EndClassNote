@@ -17,7 +17,7 @@ That's done in Chinese, no ENG version
 
 本牛马大学生祝大伙期末顺利
 
-# 更新中, 预计5日内全面完工(6天考试)
+# 剩余: Python代码, 预计3日内完成
 
 ---
 
