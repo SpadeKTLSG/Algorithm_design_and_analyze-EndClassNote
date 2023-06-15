@@ -7,9 +7,7 @@ That's done in Chinese, no ENG version
 
 也制作了.pdf和.SiYuan文件
 
-另外附带Python代码实现of部分重点题
-
-主要参考的是2015年某位大佬的Java代码
+另外附带Python代码实现of部分重点题with注释
 
 部分内容由于个人(牛马带专)的教学内容有调整进行删节, 部分有手就行的简单内容不赘述.
 
