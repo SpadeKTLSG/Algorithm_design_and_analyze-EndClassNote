@@ -17,8 +17,6 @@ That's done in Chinese, no ENG version
 
 本牛马大学生祝大伙期末顺利
 
-# 剩余: Python代码, 预计3日内完成
-
 ---
 
 Principles of computer composition personal end-of-term review book
