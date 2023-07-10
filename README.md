@@ -17,6 +17,7 @@ That's done in Chinese, no ENG version
 
 本牛马大学生祝大伙期末顺利
 
+当前停止更新, 余下内容将会记录在个人算法与数据结构联合笔记中(新建文件夹)
 ---
 
 Principles of computer composition personal end-of-term review book
